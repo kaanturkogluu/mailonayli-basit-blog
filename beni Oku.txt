@@ -1,0 +1,4 @@
+Veri Tabanı Ayarları için : admin/config.php dosyasını yapılandırın . 
+Mail metotları için SMTP için uygun ayarları yapım 
+veri tabanı yedeği için blog(2).sql dosyasnı kullanabilrisiniz.
+Bu proje içerisinde bir kaç pattern design kullanılarak basit bir blog sitesi vardır
